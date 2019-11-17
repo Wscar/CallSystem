@@ -56,3 +56,4 @@ F:\MyProject\CallSystem\src\StupidProject\AuthenticationCentre\obj\Debug\netcore
 F:\MyProject\CallSystem\src\StupidProject\AuthenticationCentre\obj\Debug\netcoreapp3.0\AuthenticationCentre.csproj.CopyComplete
 F:\MyProject\CallSystem\src\StupidProject\AuthenticationCentre\obj\Debug\netcoreapp3.0\AuthenticationCentre.dll
 F:\MyProject\CallSystem\src\StupidProject\AuthenticationCentre\obj\Debug\netcoreapp3.0\AuthenticationCentre.pdb
+F:\MyProject\CallSystem\src\StupidProject\AuthenticationCentre\obj\Debug\netcoreapp3.0\AuthenticationCentre.csprojAssemblyReference.cache

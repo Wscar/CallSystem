@@ -20,8 +20,8 @@ namespace AuthenticationCentre
                     ClientName="myMvc",
                     ClientSecrets=new List<Secret>{new Secret("secret".Sha256())},
                     AllowedGrantTypes=GrantTypes.Implicit,
-                    RedirectUris={ "https://localhost:5002/signin-oidc" },
-                    PostLogoutRedirectUris = { "https://localhost:5002/signout-callback-oidc" },
+                    RedirectUris={ "https://localhost:5200/signin-oidc" },
+                    PostLogoutRedirectUris = { "https://localhost:5200/signout-callback-oidc" },
 
                         AllowedScopes = new List<string>
                         {
